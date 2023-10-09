@@ -86,3 +86,10 @@ To deploy the application to Heroku, run the following command:
 `heroku deploy`
 
 Heroku will build and deploy the application. Once the deployment is complete, you can open the application in your web browser by visiting the Heroku URL.
+
+![image showing app manifest](image.png)
+
+![image showing service worker](image-1.png)
+
+![image showing indexedDB](image-2.png)
+
